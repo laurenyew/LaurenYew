@@ -25,5 +25,4 @@ Turing Honors Computer Science Thesis: [cOrcS: Continuation of Orc Language Secu
 Austin, TX
 
 ## Contact
-laurenyew at gmail dot com
 [@YewLauren](https://twitter.com/YewLauren)
