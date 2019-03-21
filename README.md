@@ -1,4 +1,8 @@
-# LaurenYew
+# Lauren Yew
+![alt text](https://github.com/laurenyew/laurenyew.github.io/blob/master/images/ProfilePhotoCircle.png "Profile photo")
+## Location
+Austin, TX
+
 ## Bio
 Lauren Yew is a Senior Android Engineer working at UnderArmour on the Connected Devices team, where she develops Android libraries that integrate with the MapMyRun suite of apps to sync with the UA Bluetooth connected shoes. She has led Kotlin migration efforts across several teams and works to promote the use of Kotlin to improve performance, testing, and creating robust APIs and apps. When she’s not writing code, she’s usually training her two dogs. You can find her work on Android and iOS at https://github.com/laurenyew.
 
@@ -13,3 +17,6 @@ https://www.linkedin.com/in/laurenyew/
 
 ## Github
 https://github.com/laurenyew
+
+## Contact
+@YewLauren on Twitter
