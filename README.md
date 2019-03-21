@@ -6,18 +6,16 @@ Lauren Yew is a Senior Android Engineer working at UnderArmour on the Connected 
 
 ## Speaking
 *Threading Made Easy: A Busy Developer's Guide to Kotlin Coroutines*
-* UT Mobile App Developer Conference (MADCon) (Mar 2019) https://www.txcsmad.com/madcon/
-* Austin Android Developers Meetup (Mar 2019). https://www.meetup.com/Austin-Android-Developer-Meetup/events/259316686/
-* Google Developer Group Austin (Apr 2019). https://www.meetup.com/gdgaustin/events/259531184/
+* [UT Mobile App Developer Conference (MADCon)](https://www.txcsmad.com/madcon/) (Mar 2019) 
+* [Austin Android Developers Meetup](https://www.meetup.com/Austin-Android-Developer-Meetup/events/259316686/) (Mar 2019).
+* [Google Developer Group Austin](https://www.meetup.com/gdgaustin/events/259531184/) (Apr 2019). 
 
-## LinkedIn
-https://www.linkedin.com/in/laurenyew/
-
-## Github
-https://github.com/laurenyew
+## Links
+[LinkedIn](https://www.linkedin.com/in/laurenyew/)
+[Github](https://github.com/laurenyew)
 
 ## Location
 Austin, TX
 
 ## Contact
-@YewLauren on Twitter
+[@YewLauren](https://twitter.com/YewLauren)
