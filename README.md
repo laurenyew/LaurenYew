@@ -17,9 +17,8 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour 
 Turing Honors Computer Science Thesis: [cOrcS: Continuation of Orc Language Security with Static Integrity Checking](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf) (2013).
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/laurenyew/)
-
-[Github](https://github.com/laurenyew)
+* [LinkedIn](https://www.linkedin.com/in/laurenyew/)
+* [Github](https://github.com/laurenyew)
 
 
 ## Location
