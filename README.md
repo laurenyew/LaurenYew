@@ -12,6 +12,7 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour 
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/laurenyew/)
+
 [Github](https://github.com/laurenyew)
 
 ## Location
