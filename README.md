@@ -14,7 +14,7 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour 
 [Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
 
 ## Previous Work
-[(Turing Honors Thesis) cOrcS: Continuation of Orc Language Security with Static Integrity Checking](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf) (2013).
+Turing Honors Computer Science Thesis: [cOrcS: Continuation of Orc Language Security with Static Integrity Checking](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf) (2013).
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/laurenyew/)
