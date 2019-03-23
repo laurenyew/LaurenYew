@@ -12,6 +12,7 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour 
 
 ## Blog Posts
 [Why migrate your Android app to Kotlin?](https://medium.com/@laurenyew/why-migrate-your-android-app-to-kotlin-2220218952a9) (2019).
+
 [Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
 
 ## Previous Work
