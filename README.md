@@ -11,9 +11,12 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour 
 * [Google Developer Group Austin](https://www.meetup.com/gdgaustin/events/259531184/) (Apr 2019). 
 
 ## Blog Posts
-[Why migrate your Android app to Kotlin?](https://medium.com/@laurenyew/why-migrate-your-android-app-to-kotlin-2220218952a9) (2019).
+*Kotlin Migration Blog Post Series (3 part)*
+* [Why migrate your Android app to Kotlin?](https://medium.com/@laurenyew/why-migrate-your-android-app-to-kotlin-2220218952a9) (2019).
+* [How to advocate for Kotlin migration + sample migration process](https://medium.com/@laurenyew/how-to-advocate-for-kotlin-migration-sample-migration-process-3d178d8b638) (2019).
 
-[Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
+*Other*
+* [Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
 
 ## Previous Work
 Turing Honors Computer Science Thesis: [cOrcS: Continuation of Orc Language Security with Static Integrity Checking](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf) (2013).
