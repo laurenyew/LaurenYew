@@ -2,7 +2,7 @@
 <img src="images/ProfilePhotoCircle.png" data-canonical-src="images/ProfilePhotoCircle.png" width="200" height="200" />
 
 ## Bio
-Lauren Yew is a Senior Software Engineer (Android & iOS) working at UnderArmour on the Connected Devices team. She develops Android and iOS libraries that sync with the UA Bluetooth connected shoes and other bluetooth devices, integrating with the MapMyRun suite of apps. She has led Kotlin migration efforts across several teams and works to promote the use of Kotlin to improve performance, testing, and creating robust APIs and apps. When she’s not writing code, she’s usually training her two dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
+Lauren Yew is a Senior Software Engineer (Android & iOS) working on the Connected Devices team at UnderArmour in Austin, TX. She develops Android and iOS libraries that sync with the UA Bluetooth connected shoes and other bluetooth devices, integrating with the MapMyRun suite of apps. She has led Kotlin migration efforts across several teams and works to promote the use of Kotlin to improve performance, testing, and creating robust APIs and apps. When she’s not writing code, she’s usually training her two dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
 
 ## Speaking
 *Threading Made Easy: A Busy Developer's Guide to Kotlin Coroutines*
