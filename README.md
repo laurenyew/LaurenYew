@@ -16,6 +16,11 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working on the Connecte
 * [How to advocate for Kotlin migration + sample migration process](https://medium.com/@laurenyew/how-to-advocate-for-kotlin-migration-sample-migration-process-3d178d8b638) (2019).
 * [12 Steps to convert your Java class to Kotlin the right way](https://medium.com/@laurenyew/12-steps-to-convert-your-java-class-to-kotlin-the-right-way-9a718cfb498d) (2019).
 
+*Google I/O 2019*
+* [Impressions from Google I/O 2019: Android Q — Dark Theme](https://medium.com/ua-makers/impressions-from-google-i-o-2019-android-q-dark-theme-5af500f87161) (2019).
+* [Impressions from Google I/O 2019: Android Q — Gesture Navigation](https://medium.com/ua-makers/impressions-from-google-i-o-2019-android-q-gesture-navigation-80c28ce45b1a) (2019).
+* [Impressions from Google I/O 2019: Flutter](https://medium.com/ua-makers/impressions-from-google-i-o-2019-flutter-9cd4b72edefb) (2019).
+
 *Other*
 * [Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
 
