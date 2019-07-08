@@ -19,7 +19,7 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working on the Connecte
 *Google I/O 2019*
 * [Impressions from Google I/O 2019: Android Q — Dark Theme](https://medium.com/ua-makers/impressions-from-google-i-o-2019-android-q-dark-theme-5af500f87161) (2019).
 * [Impressions from Google I/O 2019: Android Q — Gesture Navigation](https://medium.com/ua-makers/impressions-from-google-i-o-2019-android-q-gesture-navigation-80c28ce45b1a) (2019).
-* [Impressions from Google I/O 2019: Flutter](https://medium.com/ua-makers/impressions-from-google-i-o-2019-flutter-9cd4b72edefb) (2019).
+* [Impressions from Google I/O 2019: Flutter](https://medium.com/p/impressions-from-google-i-o-2019-flutter-9cd4b72edefb?source=email-2e7a92038d8--writer.postDistributed&sk=abeb951c0fc5be66d4e5641960a08698) (2019).
 * [Impressions from Google I/O 2019: Kotlin Coroutines](https://medium.com/@laurenyew/impressions-of-google-i-o-2019-kotlin-coroutines-19b6af1e0e3) (2019).
 
 *Other*
