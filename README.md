@@ -15,7 +15,7 @@ Lauren Yew is a Senior Software Engineer (Android & iOS) working on the Connecte
 *Kotlin Migration Blog Post Series (3 part)*
 * [Why migrate your Android app to Kotlin?](https://medium.com/@laurenyew/why-migrate-your-android-app-to-kotlin-2220218952a9) (2019).
 * [How to advocate for Kotlin migration + sample migration process](https://medium.com/@laurenyew/how-to-advocate-for-kotlin-migration-sample-migration-process-3d178d8b638) (2019).
-* [12 Steps to convert your Java class to Kotlin the right way](https://medium.com/@laurenyew/12-steps-to-convert-your-java-class-to-kotlin-the-right-way-9a718cfb498d) (2019).
+* [12 Steps to convert your Java class to Kotlin the right way](https://medium.com/@laurenyew/12-steps-to-convert-your-java-class-to-kotlin-the-right-way-9a718cfb498d?sk=b974e7681d164652494476f545b6100b) (2019).
 
 *Google I/O 2019*
 * [Impressions from Google I/O 2019: Android Q — Dark Theme](https://medium.com/ua-makers/impressions-from-google-i-o-2019-android-q-dark-theme-5af500f87161) (2019).
