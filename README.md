@@ -2,7 +2,7 @@
 <img src="images/ProfilePhotoCircle.png" data-canonical-src="images/ProfilePhotoCircle.png" width="200" height="200" />
 
 ## Bio
-Lauren Yew is a Senior Software Engineer (Android) working on the App Platform team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her two dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
+Lauren Yew is a Senior Software Engineer (Android) working on the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her three dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
 
 ## Speaking
 *Threading Made Easy: A Busy Developer's Guide to Kotlin Coroutines*
@@ -25,6 +25,9 @@ Lauren Yew is a Senior Software Engineer (Android) working on the App Platform t
 
 *Other*
 * [Going Worldwide: 7 App Localization Tips for Android Devs](https://www.phunware.com/blog/going-worldwide-7-tips/) (2018).
+
+## Mentions in Blog Posts
+* [Innovating from Home: Maker Week at The New York Times - NYT Cooking — Calories & Grocery Features](https://open.nytimes.com/innovating-from-home-maker-week-at-the-new-york-times-50ecfa38aca1) (August 2020).
 
 ## Previous Work
 Turing Honors Computer Science Thesis: [cOrcS: Continuation of Orc Language Security with Static Integrity Checking](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2113.pdf) (2013).
