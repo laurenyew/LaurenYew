@@ -12,6 +12,10 @@ Lauren Yew is a Senior Software Engineer (Android) working on the App Platforms 
 * [Google Developer Group Dallas](https://www.meetup.com/gdgdallas/events/262286209/) (July 2019).
 
 ## Blog Posts
+*NYT Open Blog Posts*
+* [4 Steps to Win Advocates and Implement a Technical Change](https://open.nytimes.com/4-steps-to-win-advocates-and-implement-a-technical-change-b2a9b922559b) (2021).
+* [Threading at the Speed of Light (Kotlin Coroutines Migration from RxJava)](https://open.nytimes.com/threading-at-the-speed-of-light-6ae31257307a) (2021).
+
 *Kotlin Migration Blog Post Series (3 part)*
 * [Why migrate your Android app to Kotlin?](https://medium.com/@laurenyew/why-migrate-your-android-app-to-kotlin-2220218952a9) (2019).
 * [How to advocate for Kotlin migration + sample migration process](https://medium.com/@laurenyew/how-to-advocate-for-kotlin-migration-sample-migration-process-3d178d8b638) (2019).
