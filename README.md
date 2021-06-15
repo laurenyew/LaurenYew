@@ -6,7 +6,7 @@ Lauren Yew is a Senior Software Engineer (Android) working on the App Platforms 
 
 ## Speaking
 *Threading Made Easy! A Busy Developer’s Guide to Kotlin Coroutines & Flows + RxJava migration*
-* [360|AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021).
+* [360 AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021).
 * [Google Developer Group Dallas](https://www.meetup.com/gdgdallas/events/278836326/) (June 2021).
 
 *Threading Made Easy: A Busy Developer's Guide to Kotlin Coroutines*
