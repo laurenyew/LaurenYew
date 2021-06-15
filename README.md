@@ -5,6 +5,10 @@
 Lauren Yew is a Senior Software Engineer (Android) working on the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her three dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
 
 ## Speaking
+*Threading Made Easy! A Busy Developer’s Guide to Kotlin Coroutines & Flows + RxJava migration*
+* [360|AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021).
+* [Google Developer Group Dallas](https://www.meetup.com/gdgdallas/events/278836326/) (June 2021).
+
 *Threading Made Easy: A Busy Developer's Guide to Kotlin Coroutines*
 * [UT Mobile App Developer Conference (MADCon)](https://www.txcsmad.com/madcon/) (Mar 2019) 
 * [Austin Android Developers Meetup](https://www.meetup.com/Austin-Android-Developer-Meetup/events/259316686/) (Mar 2019).
