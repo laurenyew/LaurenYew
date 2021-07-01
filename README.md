@@ -2,7 +2,7 @@
 <img src="images/ProfilePhotoCircle.png" data-canonical-src="images/ProfilePhotoCircle.png" width="200" height="200" />
 
 ## Bio
-Lauren Yew is a Senior Software Engineer (Android) working on the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her three dogs. You can find her work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
+Lauren Yew is a Senior Android Software Engineer developing Android & iOS core libraries for the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her three dogs. You can find more information on her past talks and work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
 
 ## Speaking
 *Understanding native iOS from an Android perspective*
