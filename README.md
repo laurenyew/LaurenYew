@@ -2,11 +2,12 @@
 <img src="images/ProfilePhotoCircle.png" data-canonical-src="images/ProfilePhotoCircle.png" width="200" height="200" />
 
 ## Bio
-Lauren Yew is a Senior Android Software Engineer developing Android & iOS core libraries for the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her three dogs. You can find more information on her past talks and work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
+Lauren Yew is a Senior Android Software Engineer developing Android & iOS core libraries for the App Platforms team at [The New York Times](https://www.nytco.com/careers/) in Austin, TX. When she’s not writing code, she’s usually training her two dogs. You can find more information on her past talks and work on Android and iOS at [https://github.com/laurenyew](https://github.com/laurenyew).
 
 ## Speaking
 *Understanding native iOS from an Android perspective*
 * [Chicago Roboto 2021](https://chicagoroboto.com/session/understanding-native-ios-from-an-android-perspective/) (Sept 2021).
+* Google Developer Group Dallas (August 2021).
 
 *Threading Made Easy! A Busy Developer’s Guide to Kotlin Coroutines & Flows + RxJava migration*
 
