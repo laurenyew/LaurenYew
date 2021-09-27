@@ -14,9 +14,9 @@ Lauren Yew is a Staff Android Software Engineer developing Android & iOS core fe
 
 *Threading Made Easy! A Busy Developer’s Guide to Kotlin Coroutines & Flows + RxJava migration*
 
-[Video Recording](https://vimeo.com/580376401), [SlideShare](https://www.slideshare.net/secret/40tiKBfk3yNI1B), [Sample Code](https://github.com/laurenyew/PetAdoptSampleApp/tree/develop/android)
+[360 AnDevCon 2021 Recording](https://vimeo.com/580376401), [SlideShare](https://www.slideshare.net/secret/40tiKBfk3yNI1B), [Sample Code](https://github.com/laurenyew/PetAdoptSampleApp/tree/develop/android)
 
-* [360 AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021).
+* [360 AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021). [Video Recording](https://360andev.com/session-recordings/?vimeography_gallery=4&vimeography_video=580376401)
 * [Google Developer Group Dallas](https://www.meetup.com/gdgdallas/events/278836326/) (June 2021).
 * [Google Developer Group Austin](https://www.meetup.com/gdgaustin/events/279131227/) (July 2021).
 * [Austin Android Developer Group](https://www.meetup.com/Austin-Android-Developer-Meetup/events/279200728/) (July 2021).
