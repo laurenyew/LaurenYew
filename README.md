@@ -6,12 +6,15 @@ Lauren Yew is a Staff Android Software Engineer developing Android & iOS core fe
 
 ## Speaking
 *Understanding native iOS from an Android perspective*
+
+[SlideShare](https://www.slideshare.net/LaurenYew/understanding-ios-from-an-android-perspective), [Sample Code](https://github.com/laurenyew/PetAdoptSampleApp)
+
 * [Chicago Roboto 2021](https://chicagoroboto.com/session/understanding-native-ios-from-an-android-perspective/) (Sept 2021).
 * [Google Developer Group Dallas](https://gdg.community.dev/events/details/google-gdg-dallas-presents-understanding-native-ios-from-an-android-perspective/) (August 2021).
 
 *Threading Made Easy! A Busy Developer’s Guide to Kotlin Coroutines & Flows + RxJava migration*
 
-[SlideShare](https://www.slideshare.net/secret/40tiKBfk3yNI1B), [Sample Code](https://github.com/laurenyew/PetAdoptSampleApp/tree/develop/android)
+[Video Recording](https://vimeo.com/580376401), [SlideShare](https://www.slideshare.net/secret/40tiKBfk3yNI1B), [Sample Code](https://github.com/laurenyew/PetAdoptSampleApp/tree/develop/android)
 
 * [360 AnDevCon 2021 Conference](https://360andev.com/session/threading-made-easy-a-busy-developers-guide-to-kotlin-coroutines-flows/) (July 2021).
 * [Google Developer Group Dallas](https://www.meetup.com/gdgdallas/events/278836326/) (June 2021).
