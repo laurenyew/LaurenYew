@@ -4,7 +4,7 @@
 ## Bio
 Engineering Manager with 11 years of software development experience developing and architecting Android and iOS mobile apps and libraries. I'm deeply committed to driving innovation, fostering collaborate environments, growing engineers, and refining development processes. I am currently managing the Games Android team at The New York Times.
 
-Software Engineering Management | Engineer Hiring | Mobile Development | Android Development | Software Architecture | Software Development Lifecycle | Process Optimization | Agile Methodologies | Strategic Leadership | Emotional Intelligence
+Skills: Software Engineering Management, Engineer Hiring, Mobile Development, Android Development, Software Architecture, Software Development Lifecycle, Process Optimization, Agile Methodologies, Strategic Leadership, Emotional Intelligence
 
 ## Speaking
 *Understanding native iOS from an Android perspective*
