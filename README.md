@@ -1,4 +1,3 @@
-# Lauren Yew
 <img src="images/ProfilePhotoCircle.png" data-canonical-src="images/ProfilePhotoCircle.png" width="200" height="200" />
 
 ## Bio
